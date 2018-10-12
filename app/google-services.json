@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "552540203478",
+    "firebase_url": "https://pruebaconceptofirebase-eacd1.firebaseio.com",
+    "project_id": "pruebaconceptofirebase-eacd1",
+    "storage_bucket": "pruebaconceptofirebase-eacd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552540203478:android:4ca35f18b79868db",
+        "android_client_info": {
+          "package_name": "com.example.jhonjimenez.pruebaconceptofcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552540203478-pl78pu3efmitqpvi436h5ot57san5u5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhonjimenez.pruebaconceptofcm",
+            "certificate_hash": "44cb4c25f31d0c1d4d47699a7f4e884eaedec10d"
+          }
+        },
+        {
+          "client_id": "552540203478-50qhfb157ii0nsaner9nfmed63ktrs8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYekicYXEy2oNqgEkIndot6vXAcsgRIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552540203478-50qhfb157ii0nsaner9nfmed63ktrs8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552540203478:android:4aff212e5cf2aff8",
+        "android_client_info": {
+          "package_name": "com.example.jhonjimenez.pruebaconceptofirebasestorege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552540203478-vpk23to4758bpt85j49r9vs2vsabtppk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhonjimenez.pruebaconceptofirebasestorege",
+            "certificate_hash": "44cb4c25f31d0c1d4d47699a7f4e884eaedec10d"
+          }
+        },
+        {
+          "client_id": "552540203478-50qhfb157ii0nsaner9nfmed63ktrs8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYekicYXEy2oNqgEkIndot6vXAcsgRIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552540203478-50qhfb157ii0nsaner9nfmed63ktrs8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552540203478:android:8fe0c85715e9b2ba",
+        "android_client_info": {
+          "package_name": "com.example.jhonjimenez.pruebaconceptorealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552540203478-ed988bhkap0udacv7qog9ijvhdeu0tua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhonjimenez.pruebaconceptorealtimedatabase",
+            "certificate_hash": "605c50d9b772185d177ae1f3e33c43fc16184d2d"
+          }
+        },
+        {
+          "client_id": "552540203478-50qhfb157ii0nsaner9nfmed63ktrs8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYekicYXEy2oNqgEkIndot6vXAcsgRIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552540203478-50qhfb157ii0nsaner9nfmed63ktrs8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
