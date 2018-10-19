@@ -67,6 +67,14 @@
           }
         },
         {
+          "client_id": "552540203478-rrl8ave47d3ftq4s124j5filjnv94rqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhonjimenez.pruebaconceptofirebasestorege",
+            "certificate_hash": "605c50d9b772185d177ae1f3e33c43fc16184d2d"
+          }
+        },
+        {
           "client_id": "552540203478-50qhfb157ii0nsaner9nfmed63ktrs8e.apps.googleusercontent.com",
           "client_type": 3
         }

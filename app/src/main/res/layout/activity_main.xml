@@ -29,13 +29,13 @@
     <android.support.v7.widget.AppCompatImageView
         android:id="@+id/imgPhoto"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:layout_marginTop="@dimen/main.magin"
         android:layout_marginBottom="@dimen/main.magin"
         app:layout_constraintBottom_toTopOf="@+id/navigation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/message" />
+        app:layout_constraintTop_toBottomOf="@+id/btnUpload" />
 
     <ImageButton
         android:id="@+id/btnDelete"
